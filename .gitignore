@@ -1,3 +1,4 @@
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -5,8 +6,6 @@ __pycache__/
 
 # C extensions
 *.so
-Application ID cee7680c
-Application Keys cd7826ea53a8efa342c5cc69ecb34edd
 
 # Distribution / packaging
 .Python
@@ -158,8 +157,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-Application ID cee7680c
-Application Keys cd7826ea53a8efa342c5cc69ecb34edd
 
 # Spyder project settings
 .spyderproject
